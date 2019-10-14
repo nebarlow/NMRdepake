@@ -1,0 +1,16 @@
+##TITLE= Parameter file, TopSpin 3.5 pl 2
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ 2019-06-27 17:14:48.616 +0200  nmrsu@nmrpc
+$$ C:\Bruker\TopSpin3.5pl2\examdata/Divya/24/pdata/1/outd
+$$ process C:\Bruker\TopSpin3.5pl2\prog\au\bin\iexpno.exe
+##$CURPLOT= <A4>
+##$CURPRIN= <$1#1#0#1#1#1#1#1#0#-1#-1#1#-1>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/1D_H.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##END=

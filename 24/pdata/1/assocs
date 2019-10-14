@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TopSpin 4.0.6
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= dm4512
+$$ 2019-07-08 15:43:07.864 +0100  IC\dm4512@ch-dm4512
+$$ C:/Bruker/TopSpin4.0.6/examdata/Divya 600/24/pdata/1/assocs
+$$ process C:\Bruker\TopSpin4.0.6\prog\mod\dataserver.exe
+##$MULTDISP= <C:/Bruker/TopSpin4.0.6/examdata/Divya 600/32/pdata/1>
+##END=
